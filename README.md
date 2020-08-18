@@ -17,9 +17,9 @@ mainTargetCueing.m
 
 Behavioral data:
 %grabs raw data, cleans data and computes averages across conditions
-analysisCode5baseCue.m
-analysisCode5distCue.m
-analysisCode5targCue.m
+# analysisCode5baseCue.m
+# analysisCode5distCue.m
+# analysisCode5targCue.m
 %some statistical analyses, I used this more for behavioral cueing exp, may have done analysis for EEG beh data using SPSS
 stat_analysisCode5_dist.m
 stat_analysisCode5_targ.m
